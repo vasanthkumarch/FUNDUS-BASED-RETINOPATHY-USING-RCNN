@@ -1,4 +1,4 @@
-# FUNDUS-BASED-RETINOPATHY-USING-RCNN
+ # FUNDUS-BASED-RETINOPATHY-USING-RCNN
 Retinopathy refers to damage to the blood vessels in the retina, the light-sensitive tissue at the back of the eye. The primary causes include diabetes, known as diabetic retinopathy, where high blood sugar levels damage the small blood vessels in the retina. Hypertension (high blood pressure) is another common cause, as it can lead to blood vessel abnormalities and retinal damage. Other factors such as age-related macular degeneration, vascular diseases, and certain genetic conditions can also contribute to retinopathy. Regular eye exams, managing underlying health conditions, and lifestyle modifications are crucial in preventing and managing retinopathy.Our objective seeks to develop An approach for predicting Retinopathy disease using modern technologies in order(CNN & RNN).
 
 Features
@@ -17,6 +17,8 @@ GPU (check availability and utilizes it if present)
 Environment with the specified Python libraries (Jupyter Notebooks, Google Colab)
 Required Python packages: pandas, matplotlib, seaborn, keras, tensorflow, scikit-learn.
 Architecture Diagram/Flow
+![image](https://github.com/vasanthkumarch/FUNDUS-BASED-RETINOPATHY-USING-RCNN/assets/36288975/d857b5b7-f7f4-4960-9b12-499fb5708c9a)
+
 project architecture
 
 Installation
